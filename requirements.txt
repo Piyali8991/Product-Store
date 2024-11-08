@@ -1,0 +1,7 @@
+Atlas 
+Password: 0LQyYHvCSYJoc2GV
+
+API:Application Programming Interface(communication between frontend and backend).
+Material Ui :Framework for buttons.
+
+Zustand:Creates a global state to be aplied in every file where needed.
